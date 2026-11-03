@@ -1,0 +1,6 @@
+{
+  "name": "Fazal Azam Telecom",
+  "description": "Professional telecom package management, digital accounting, and financial reporting system for Pakistani telecom networks (Jazz, Zong, Telenor, Ufone).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
